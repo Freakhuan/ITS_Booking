@@ -29,5 +29,7 @@ if result != -1:
  browser.find_element_by_xpath("//input[@class='button-select button-primary']").click()
  browser.find_element_by_xpath("//input[@class='button-select button-primary']").click()
  browser.find_element_by_id("email_inp").send_keys(email)
+ browser.find_element_by_xpath("//input[@class='button button-primary']").click()
+ browser.switch_to.alert.accept()
 else:
  sleep(30)
