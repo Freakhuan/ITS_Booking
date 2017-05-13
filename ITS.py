@@ -7,7 +7,7 @@ url1="https://as.its-kenpo.or.jp/apply/empty_new?s=PVVqTTIwRFpwWlNaMUpIZDlrSGR3M
 url2="https://as.its-kenpo.or.jp/apply/empty_new?s=PVlqTTIwRFpwWlNaMUpIZDlrSGR3MVda"
 dates_in_jpy=["2017年05月03日","2017年05月04日","2017年05月05日","2017年05月06日"]
 dates_in_eng=["2017-05-03","2017-05-04","2017-05-05","2017-05-06"]
-email="*********@gmail.com"
+email="********@gmail.com"
 
 browser=webdriver.Chrome()
 
